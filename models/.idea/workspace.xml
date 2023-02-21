@@ -4,31 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c0910a0-e478-4112-a107-8652f904a2e6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_static/styles/2-common.css" beforeDir="false" afterPath="$PROJECT_DIR$/web_static/styles/2-common.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_static/styles/3-footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/web_static/styles/3-footer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_static/styles/3-header.css" beforeDir="false" afterPath="$PROJECT_DIR$/web_static/styles/3-header.css" afterDir="false" />
+    <list default="true" id="ba7f0d78-1c6a-4c8e-a7ed-38de96cbdaf7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../web_static/styles/2-common.css" beforeDir="false" afterPath="$PROJECT_DIR$/../web_static/styles/2-common.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_static/styles/3-footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/../web_static/styles/3-footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_static/styles/3-header.css" beforeDir="false" afterPath="$PROJECT_DIR$/../web_static/styles/3-header.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2Laipks8dRp5rbeXr3zYnyCzafO" />
+  <component name="ProjectId" id="2Lswi8hSneXdh1KGXBPkIHi3WFN" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,11 +35,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8c0910a0-e478-4112-a107-8652f904a2e6" name="Changes" comment="" />
-      <created>1676115778692</created>
+      <changelist id="ba7f0d78-1c6a-4c8e-a7ed-38de96cbdaf7" name="Changes" comment="" />
+      <created>1676673222924</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1676115778692</updated>
+      <updated>1676673222924</updated>
     </task>
     <servers />
   </component>
